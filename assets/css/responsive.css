@@ -1,6 +1,7 @@
 @media only screen and (max-width: 767px) {
   body {
     font-size: 13px;
+   
   }
   p {
     font-size: 13px;
@@ -1544,3 +1545,17 @@
   }
 }
 /*# sourceMappingURL=responsive.css.map */
+
+
+@media only screen and (max-width:360px){
+  .table-responsive{
+    margin-left: -10px ;
+    width: 108%;
+  }
+}
+/* @media only screen and (max-width:760px){
+  .table-responsive{
+    margin-left: -90px !important;
+    width: 120%;
+  }
+} */
