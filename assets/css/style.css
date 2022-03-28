@@ -111,8 +111,8 @@ p:last-child {
 }
 
 .ptb-100 {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 1px;
 }
 
 /*btn(primary&light)*/
@@ -1515,14 +1515,14 @@ About Area CSS
 .about-image {
   width: 100%;
   height: 100%;
-  background-image: url(../../sah/3.jpg);
+  /* background-image: url(../../sah/3.jpg); */
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .about-image img {
-  display: none;
+  display: block;
 }
 
 .about-content {
@@ -1607,14 +1607,14 @@ Our Mission Area CSS
 .our-mission-image {
   width: 100%;
   height: 100%;
-  background-image: url(../../sah/2.JPG);
+  /* background-image: url(../../sah/2.JPG); */
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .our-mission-image img {
-  display: none;
+  display: block;
 }
 
 .our-mission-content {
